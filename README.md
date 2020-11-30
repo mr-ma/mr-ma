@@ -10,6 +10,12 @@ In my free time I work on multiple automations hobby projects.
 - call stack integrity verification in LLVM
 - software protection ILP-based composition framework in LLVM
 
+### Automation
+
+- 🌱 Low-budget DIY ESP8266 leak detector
+- ⚡ reef-pi fork with multiple added features to support water change
+
+
 ### Show cases
 
 - Challenge-based SSH server in Go
@@ -17,13 +23,8 @@ In my free time I work on multiple automations hobby projects.
 - Microservice-based Paper review tool for academics in Go
 
 
-### Automation
 
-- 🌱 Low-budget DIY ESP8266 leak detector
-- ⚡ reef-pi fork with multiple added features to support water change
-
-
-📫 How to reach me:
+### 📫 How to reach me:
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mahmadvand)
 
