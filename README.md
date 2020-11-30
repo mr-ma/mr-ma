@@ -18,6 +18,7 @@ In my free time I work on multiple automations hobby projects.
 
 ### Show cases
 
+- Basic implementation of self-checksumming protection in Python
 - Challenge-based SSH server in Go
 - Crypto secret sharing schemes in C++
 - Microservice-based Paper review tool for academics in Go
