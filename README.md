@@ -1,7 +1,7 @@
 ### hi hi 👋
 
-I'm Mohsen. I build compiler-based security protections against software cracking attacks.
-In my free time I work on multiple automations hobby projects. 
+I'm Mohsen. I build compiler-based security protections against software cracking.
+In my free time I work on multiple automation projects. 
 
 ### Software protection
 
@@ -18,10 +18,11 @@ In my free time I work on multiple automations hobby projects.
 
 ### Show cases
 
-- Basic implementation of self-checksumming protection in Python
-- Challenge-based SSH server in Go
-- Crypto secret sharing schemes in C++
-- Microservice-based Paper review tool for academics in Go
+- [Basic self-checksumming protection in Python](https://github.com/mr-ma/basic-self-checksumming)
+- [SSH server with challenge-based and OTP authentication in Go](https://github.com/mr-ma/ssh-secret-disperser)
+- [Crypto secret sharing schemes in C++](https://github.com/mr-ma/secret-sharing)
+- [Microservice-based Paper review and taxonomy modelling tool for academics in Go](https://github.com/mr-ma/paper-review-go)
+  - [![Demo](https://img.youtube.com/vi/na_DjN1tdc4/0.jpg)](https://www.youtube.com/watch?v=na_DjN1tdc4)   
 
 
 
